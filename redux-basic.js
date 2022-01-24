@@ -46,3 +46,6 @@ store.subscribe(() => {
 store.dispatch({ type: 'INC_COUNTER' });
 store.dispatch({ type: 'ADD_COUNTER', value: 10 });
 console.log(store.getState());
+
+
+///implementation garda halka diff hunxa yesma gayeko vanda
